@@ -1,4 +1,11 @@
 ## Intro ##
+wujiajun
+零售CRM：https://github.com/wukonggg/mz-g
+前端：AmazeUI
+后端：Nutz
+数据：MySQL
+
+wujiajun
 
 MZ-G是Mengzhu Gallery的缩写。这是为"萌主精选"这家主营母婴用品、儿童服装、澳洲代购的实体小铺子做的一个CRM。萌主精选坐落在六朝古都南京，这家店的女老板，也是我的老板，需要一个定制化的CRM以支持她完成会员、商品、销售三个方面的日常经营活动，所以就有了这个小项目。由于是定制，所以并不是一个完整的crm，在这一点上请列位看官就不要bibi了。
 
